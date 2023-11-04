@@ -1,3 +1,7 @@
-hello sir
+hello sirs
 hello dinesh
+<<<<<<< HEAD
 welcome GIT
+=======
+welcome .NET
+>>>>>>> c268b8ad267461351fa904b2c879295c26518739
